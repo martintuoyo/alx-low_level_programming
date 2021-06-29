@@ -5,7 +5,7 @@
  *
  * Return: void
  *
- * n - e be like say you stupid
+ * @n: Omo i don dey tire
  */
 
 void reset_to_98(int *n)
