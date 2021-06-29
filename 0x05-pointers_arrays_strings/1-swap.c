@@ -2,7 +2,7 @@
 
 /**
  * swap_int - swaps int a and int b
- * 
+ *
  * @a: Becoming a c wiz
  *
  * @b: second parameter
@@ -12,10 +12,10 @@
 
 void swap_int(int *a, int *b)
 {
-  int x;
+int x;
   
-  x = *a;
-  *a = *b;
-  *b = x;
-  return;
+x = *a;
+*a = *b;
+*b = x;
+return;
 }
